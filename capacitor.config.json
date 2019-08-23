@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "myApp",
+  "appId": "com.carlos.mx",
+  "appName": "testCarlos",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www"
